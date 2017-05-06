@@ -1,5 +1,7 @@
 # metalsmith-redirect [![Build Status](https://travis-ci.org/aymericbeaumet/metalsmith-redirect.svg?branch=master)](https://travis-ci.org/aymericbeaumet/metalsmith-redirect) [![NPM version](https://badge.fury.io/js/metalsmith-redirect.svg)](http://badge.fury.io/js/metalsmith-redirect)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/metalsmith-redirect.svg)](https://greenkeeper.io/)
+
 A Metalsmith plugin to create HTTP redirections.
 
 ## Installation
